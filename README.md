@@ -34,9 +34,14 @@ Let's connect and grow together as we navigate the world of software development
 - **Tools**: Firebase, Git, VS Code, Android Studio
 
 ## 🔗 Connect with Me  
-- **Instagram**: [https://www.instagram.com/flutter.dev20/](https://www.instagram.com/flutter.dev20/)  
-- **Email**: [flutter.dev.journey@gmail.com](flutter.dev.journey@gmail.com)  
-- **GitHub**: [https://github.com/DevPalsanawala](https://github.com/DevPalsanawala)
+
+<p align="left">
+<a href="https://www.instagram.com/flutter.dev20/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="flutter.dev20" height="30" width="40" /></a>
+<a href="https://github.com/DevPalsanawala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="DevPalsanawala" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/dev-palsanawala-133442249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dev-palsanawala-133442249" height="30" width="40" /></a>
+<a href="https://fb.com//dev.palsanawala.94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dev palsanawla" height="30" width="40" /></a>
+  <br>
+</p>
 
 ---
 
